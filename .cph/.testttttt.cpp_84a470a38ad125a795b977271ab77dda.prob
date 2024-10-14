@@ -1,1 +1,0 @@
-{"name":"Local: testttttt","url":"/Users/ashmitchugh/ashmit-code/cp/testttttt.cpp","tests":[{"id":1726894212178,"input":"8 4 \n8 1 \n5 8\n7 3\n8 6","output":"6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/ashmitchugh/ashmit-code/cp/testttttt.cpp","group":"local","local":true}
